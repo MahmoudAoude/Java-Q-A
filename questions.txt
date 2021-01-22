@@ -1,0 +1,36 @@
+What is the color of the sun?
+Red
+Green
+Blue
+yellow
+4
+What is the largest country, by area, that has only one time zone?
+Russia
+Australia
+China
+Turkey
+3
+In which language was the book 'War and Peace' originally written?
+French
+Russian
+German
+English
+2
+What was the first successful vaccine developed in history?
+Scarlet Fever
+Cholera
+Rabies
+Smallpox
+4
+Which city's landmarks include: The Pantheon, The Spanish Steps and Trevi Fountain?
+Barcelona 
+Rome
+Athens
+Istanbul
+2
+Which truck is produced by the Ford Motor Company?
+F-150
+RAV4
+CR-V
+Silverado 1500
+1
